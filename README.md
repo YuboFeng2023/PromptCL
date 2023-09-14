@@ -40,6 +40,12 @@ python3 mcnc.py --do-eval --checkpoint ./models/checkpoint.pt
 ```
 
 
+## Acknowledgement
+
+The code is developed based on [SWCC](https://github.com/imgaojun/SWCC4Event). 
+We appreciate all the authors who made their code public, which greatly facilitates this project. 
+
+
 ## Citation
 
 ```latex
