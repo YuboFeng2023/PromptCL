@@ -1,7 +1,7 @@
 
 # PromptCL: Improving Event Representation via Prompt and Contrastive Learning
 
-We are pleased to release the official implementation of our paper titled "PromptCL: Improving Event Representation via Prompt and Contrastive Learning," which was published at NLPCC 2023! 🎉🎉🎉
+We are pleased to release the official implementation of our paper titled "PromptCL: Improving Event Representation via Prompt and Contrastive Learning", which was published at NLPCC 2023 and awarded **Best Student Paper**! 🎉🎉🎉"
 
 ## Dataset
 
@@ -50,10 +50,28 @@ We appreciate all the authors who made their code public, which greatly facilita
 
 ```latex
 @inproceedings{feng2023promptcl,
-  title={PromptCL: Improving Event Representation via Prompt and Contrastive Learning},
-  author={Feng, Yubo and Li, Lishuang and Xiang, Yi and Qin, Xueyang},
-  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
-  year={2023},
-  organization={Springer}
+  author       = {Yubo Feng and
+                  Lishuang Li and
+                  Yi Xiang and
+                  Xueyang Qin},
+  editor       = {Fei Liu and
+                  Nan Duan and
+                  Qingting Xu and
+                  Yu Hong},
+  title        = {PromptCL: Improving Event Representation via Prompt Template and Contrastive
+                  Learning},
+  booktitle    = {Natural Language Processing and Chinese Computing - 12th National
+                  {CCF} Conference, {NLPCC} 2023, Foshan, China, October 12-15, 2023,
+                  Proceedings, Part {I}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14302},
+  pages        = {261--272},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/978-3-031-44693-1\_21},
+  doi          = {10.1007/978-3-031-44693-1\_21},
+  timestamp    = {Wed, 11 Oct 2023 18:49:11 +0200},
+  biburl       = {https://dblp.org/rec/conf/nlpcc/FengLXQ23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
